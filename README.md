@@ -11,3 +11,4 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 7. [Cocoa Alert Panels](https://github.com/NikolaGrujic91/Cocoa-macOS-Alert-Panels)
 8. [Cocoa Modal Window](https://github.com/NikolaGrujic91/Cocoa-macOS-Modal-Window)
 9. [Cocoa Mouse Events](https://github.com/NikolaGrujic91/Cocoa-macOS-Mouse-Events)
+10. [Cocoa Pasteboards](https://github.com/NikolaGrujic91/Cocoa-macOS-Pasteboards)
