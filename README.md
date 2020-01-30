@@ -14,3 +14,4 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 10. [Cocoa Pasteboards](https://github.com/NikolaGrujic91/Cocoa-macOS-Pasteboards)
 11. [Cocoa Drag and Drop for TableView](https://github.com/NikolaGrujic91/Cocoa-macOS-Drag-and-Drop-Table-View)
 12. [Cocoa Determinate Progress Bar](https://github.com/NikolaGrujic91/Cocoa-macOS-Determinate-Progress-Bar)
+13. [Cocoa Web View](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View)
