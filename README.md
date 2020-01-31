@@ -15,3 +15,4 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 11. [Cocoa Drag and Drop for TableView](https://github.com/NikolaGrujic91/Cocoa-macOS-Drag-and-Drop-Table-View)
 12. [Cocoa Determinate Progress Bar](https://github.com/NikolaGrujic91/Cocoa-macOS-Determinate-Progress-Bar)
 13. [Cocoa Web View](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View)
+14. [Cocoa Web View Load Local File](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View-Load-Local-File)
