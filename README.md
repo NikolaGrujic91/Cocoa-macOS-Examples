@@ -16,3 +16,5 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 12. [Cocoa Determinate Progress Bar](https://github.com/NikolaGrujic91/Cocoa-macOS-Determinate-Progress-Bar)
 13. [Cocoa Web View](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View)
 14. [Cocoa Web View Load Local File](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View-Load-Local-File)
+15. [Cocoa Outline View](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View)
+16. [Cocoa Outline View with Checkbox](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View-Checkbox)
