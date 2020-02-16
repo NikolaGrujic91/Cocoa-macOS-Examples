@@ -16,6 +16,7 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 12. [Cocoa Determinate Progress Bar](https://github.com/NikolaGrujic91/Cocoa-macOS-Determinate-Progress-Bar) - implementation of NSProgressIndicator which value is updated using NSTimer.
 13. [Cocoa Web View](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View) -  implementation of simple web browser using WKWebView with support for go forward, go back and url validation.
 14. [Cocoa Web View Load Local File](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View-Load-Local-File) - implementation of loading local .html file in WKWebView.
-15. [Cocoa Outline View](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View) - implementation of cell based NSOutlineView where data source and delegate are set programmatically.
-16. [Cocoa Outline View with Checkbox](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View-Checkbox) - implementation of view based NSOutlineView with checkbox cells and with data source and delegate set programmatically.
-17. [Cocoa View Swapping](https://github.com/NikolaGrujic91/Cocoa-macOS-View-Swapping) - implementation of swapping NSView objects with animated transition.
+15. [Cocoa Web View JavaScript Communication](https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View-JavaScript-Communication) - implementation of WKWebView calling methods from JavaScript, and JavaScript sending messages to WKWebView over WKScriptMessageHandler.
+16. [Cocoa Outline View](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View) - implementation of cell based NSOutlineView where data source and delegate are set programmatically.
+17. [Cocoa Outline View with Checkbox](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View-Checkbox) - implementation of view based NSOutlineView with checkbox cells and with data source and delegate set programmatically.
+18. [Cocoa View Swapping](https://github.com/NikolaGrujic91/Cocoa-macOS-View-Swapping) - implementation of swapping NSView objects with animated transition.
