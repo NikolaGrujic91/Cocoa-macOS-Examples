@@ -21,3 +21,4 @@ List of repositories containing Cocoa examples for macOS in Objective-C.
 17. [Cocoa Outline View with Checkbox](https://github.com/NikolaGrujic91/Cocoa-macOS-Outline-View-Checkbox) - implementation of view based NSOutlineView with checkbox cells and with data source and delegate set programmatically.
 18. [Cocoa View Swapping](https://github.com/NikolaGrujic91/Cocoa-macOS-View-Swapping) - implementation of swapping NSView objects with animated transition.
 19. [Cocoa Background Thread](https://github.com/NikolaGrujic91/Cocoa-macOS-Background-Thread) - implementation of background thread using Grand Central Dispatch (GCD).
+20. [Cocoa Combo Box Autocomplete](https://github.com/NikolaGrujic91/Cocoa-macOS-Combo-Box-Autocomplete) - implementation of NSComboBox autocomplete feature.
