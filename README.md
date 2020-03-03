@@ -1,6 +1,6 @@
 # Cocoa macOS Examples [Objective-C]
 
-List of repositories containing Cocoa examples for macOS in Objective-C.
+List of repositories containing Cocoa examples for macOS written in Objective-C.
 
 1. [Cocoa Speech Synthesizer](https://github.com/NikolaGrujic91/Cocoa-macOS-Speech-Synthesizer) - implementation of application that uses speech synthesizer (NSSpeechSynthesizer) and cell based table view (NSTableView).
 2. [Cocoa Slider Binding](https://github.com/NikolaGrujic91/Cocoa-macOS-Slider-Binding) - implementation of two way binding of NSSlider with instance variable of the delegate object.
