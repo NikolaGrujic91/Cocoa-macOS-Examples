@@ -22,3 +22,4 @@ List of repositories containing Cocoa examples for macOS written in Objective-C.
 18. [Cocoa View Swapping](https://github.com/NikolaGrujic91/Cocoa-macOS-View-Swapping) - implementation of swapping NSView objects with animated transition.
 19. [Cocoa Background Thread](https://github.com/NikolaGrujic91/Cocoa-macOS-Background-Thread) - implementation of background thread using Grand Central Dispatch (GCD).
 20. [Cocoa Combo Box Autocomplete](https://github.com/NikolaGrujic91/Cocoa-macOS-Combo-Box-Autocomplete) - implementation of NSComboBox autocomplete feature.
+21. [Cocoa Custom Views](https://github.com/NikolaGrujic91/Cocoa-macOS-Custom-Views) - implementation of multiple NSCustomViews in same window.
